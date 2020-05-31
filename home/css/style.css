@@ -1,0 +1,11 @@
+.asd{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    overflow: hidden;
+    margin: 15px;
+    padding: 15px;
+    box-sizing: content-box;
+    border: 20px solid #cecece;
+    border-radius: 70% 70% 10% 10%;
+}
